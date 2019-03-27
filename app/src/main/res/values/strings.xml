@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adivinha</string>
+    <string name="escolha_um_numero"> Escolha um numero 0 a 1</string>
+</resources>
